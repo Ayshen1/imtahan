@@ -1,0 +1,30 @@
+.navTop{
+width: 1140px;
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+align-items: center;
+p{
+    color:#777777;
+    font-weight:300;
+}
+}
+hr{
+    font-size: 1px;
+    color: #777777;
+}
+.navBottom{
+ul{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+    list-style-type: none;
+    font-size: 14px;
+    padding: 15px 0;
+    a{
+        text-decoration: none;
+    }
+}
+
+}
